@@ -57,3 +57,10 @@ footer{
   margin-bottom: 40px;
   color: #fff;
 }
+#tribute-link {
+  text-decoration: none;
+  color: #dda5bd;
+}
+#tribute-link:hover {
+  opacity: 0.5;
+}
