@@ -18,3 +18,12 @@ h2 {
   font: 23px 'Halant', serif !important;
   text-align: center;
 }
+#image {
+  width: 260px;
+  height: 260px;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
