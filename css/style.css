@@ -5,9 +5,16 @@ body {
   margin: 0;
   background-color: #9e2955 !important;
 }
+title {
+  margin-top: 40px;
+}
 h1 {
-  color: #d60675;
+  color: #d60675 !important;
+  font: 60px 'Halant', serif !important;
+  text-align: center;
 }
 h2 {
-  color: #dda5bd;
+  color: #dda5bd !important;
+  font: 23px 'Halant', serif !important;
+  text-align: center;
 }
