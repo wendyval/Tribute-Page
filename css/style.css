@@ -27,3 +27,19 @@ h2 {
   margin-right: auto;
   border-radius: 50%;
 }
+#tribute-info {
+  max-width: 600px;
+  margin: 0 auto;
+  color: #fff;
+}
+h3 {
+  font: 23px 'Nunito Sans', sans-serif !important;
+}
+
+ul {
+  font: 20px 'Nunito Sans', sans-serif !important;
+}
+
+li {
+  margin-bottom: 8px;
+}
