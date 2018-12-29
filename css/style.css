@@ -4,6 +4,7 @@ html {
 body {
   margin: 0;
   background-color: #9e2955 !important;
+  border: 18px solid #5a1d29;
 }
 title {
   margin-top: 40px;
@@ -26,6 +27,12 @@ h2 {
   margin-left: auto;
   margin-right: auto;
   border-radius: 50%;
+}
+#img-caption {
+  font-family: 'Nunito Sans', sans-serif;
+  text-align: center;
+  margin-top: 10px;
+  color: #dda5bd;
 }
 hr {
   border: none;
