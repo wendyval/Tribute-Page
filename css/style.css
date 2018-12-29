@@ -51,3 +51,9 @@ ul {
 li {
   margin-bottom: 8px;
 }
+footer{
+  text-align: center;
+  font: 20px 'Nunito Sans', sans-serif;
+  margin-bottom: 40px;
+  color: #fff;
+}
